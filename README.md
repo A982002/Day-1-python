@@ -1,1 +1,1 @@
-# Day-1-python
+# Assignments of python
